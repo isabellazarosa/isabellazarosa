@@ -11,8 +11,8 @@
 
 <div align="center">
 
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=isabellazarosa&show_icons=true&theme=panda"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazarosa&layout=compact&langs_count=7&theme=panda"/>
+  <img height="1400cm" src="https://github-readme-stats.vercel.app/api?username=isabellazarosa&show_icons=true&theme=panda"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazarosa&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
   
