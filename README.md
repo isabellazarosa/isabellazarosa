@@ -1,6 +1,6 @@
-- 👋 Olá, sou Isabella Zarosa
-- 👀 Atualmente estou cursando engenharia da computação
-- 🌱 Atualmente estou aprendendo C++, e C#
+ - 👋 Olá, sou Isabella Zarosa
+- 👀 Atualmente estou cursando Engenharia de Software 
+
 
 ### 
 
