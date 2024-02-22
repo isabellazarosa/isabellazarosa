@@ -20,14 +20,33 @@
 ##
 
 <div style="display: inline_block"><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
-</img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vhdl_icon_130091.png" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
-</img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">          
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"> 
+
+  
+   
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+          
+          
+     
+          
+
+  
+
+  
 ##
 
 <a href="https://instagram.com/isabellazarosa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
