@@ -12,8 +12,7 @@
 
 <div>
   <a href="https://github.com/isabellazarosa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabellazarosa&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazarosa&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabellazarosa&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazarosa&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
   
