@@ -66,6 +66,9 @@
 </div>
 
 
+
+
+
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/{isabellazarosa}/count.svg"
@@ -74,6 +77,7 @@
 </p>
  
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=881BFB&height=120&section=footer"/>
