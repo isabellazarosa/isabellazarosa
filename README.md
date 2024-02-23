@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=881BFB&height=120&section=header"/>
 
-- 👋 Olá, sou Isabella Zarosa
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="370px" max-width="400px" width="400px" align="right">
+
+- 👋 Olá, sou Isabella Zarosa 
 - 👀 Atualmente estou cursando Engenharia de Software 
 
 
