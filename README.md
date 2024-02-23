@@ -1,5 +1,9 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=881BFB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=881BFB&height=120&section=header"/> <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=881BFB&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=881BFB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="370px" max-width="370px" width="370px" align="right">
 
