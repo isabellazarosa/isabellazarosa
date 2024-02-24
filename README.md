@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=881BFB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="370px" max-width="370px" width="370px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="320px" max-width="320px" width="320px" align="right">
 
 - 👋 Olá, sou Isabella Zarosa 
 - 👀 Atualmente estou cursando Engenharia de Software
