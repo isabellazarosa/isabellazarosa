@@ -52,7 +52,7 @@
            
           
           
-  <br>
+  <br><br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="2000">
 </p>
@@ -67,7 +67,7 @@
 <a href = "mailto:isabellazarosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isabellazarosacunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <br>
+  <br><br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="2000">
 </p>
