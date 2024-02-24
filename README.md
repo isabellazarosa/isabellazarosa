@@ -5,9 +5,22 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="320px" max-width="320px" width="320px" align="right">
 
-- 👋 Olá, sou Isabella Zarosa 
+- 👋 Olá, sou Isabella Zarosa
+
+  <br>
+  
 - 👀 Atualmente estou cursando Engenharia de Software
-- 🔭 No momento estou trabalhando para melhorar minhas habilidades na programação.
+
+ <br>
+
+- 🔭 No momento estou trabalhando para melhorar minhas habilidades na programação
+
+<br>
+  
+- ⚡Tenho um grande interesse na área de Ciência de Dados, Inteligência Artificial e Desenvolvimento Back-end no geral.
+
+
+
 
 <br><br><br><br><br><br><br>
 ### 
