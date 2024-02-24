@@ -11,10 +11,11 @@
 <br><br><br><br><br><br><br><br><br><br><br>
 ### 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="2000">
+</p>
+<br>
 
-
-
-##
 
 
 <div align="center">
@@ -22,8 +23,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabellazarosa&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazarosa&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
-  
-##
+  <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="2000">
+</p>
+<br>
 
 <div style="display: inline_block" align="center"><br>
   
@@ -48,18 +52,26 @@
            
           
           
-
+  <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="2000">
+</p>
+<br>
   
 
   
-##
+
 
 <br>
 <a href="https://instagram.com/isabellazarosa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:isabellazarosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isabellazarosacunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-##
+  <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="2000">
+</p>
+<br>
  
  <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
