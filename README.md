@@ -20,10 +20,8 @@
 - ⚡Tenho um grande interesse na área de Ciência de Dados, Inteligência Artificial e Desenvolvimento Back-end no geral.
 
 
-
-
 <br><br><br><br><br>
-### 
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="2000">
