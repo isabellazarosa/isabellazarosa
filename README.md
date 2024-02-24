@@ -9,7 +9,7 @@
 - 👀 Atualmente estou cursando Engenharia de Software
 - 🔭 No momento estou trabalhando para melhorar minhas habilidades na programação.
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 ### 
 
 <p align="center">
